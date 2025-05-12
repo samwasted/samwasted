@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am a sophomore currently studying at IIT BHU, Varanasi in Mathematics and Computing. I enjoy challenging myself with technologies that power real-time, scalable systems.  <br>Always learning, building, and breaking things to understand them better.
+Hi! I am a sophomore currently studying Mathematics and Computing at IIT BHU, Varanasi. I enjoy challenging myself with technologies that power real-time, scalable systems.  <br>Always learning, building, and breaking things to understand them better.
 
 
 ## 🌐 Socials:
